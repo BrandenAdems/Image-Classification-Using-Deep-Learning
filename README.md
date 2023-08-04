@@ -45,3 +45,6 @@ Here is the model architecture
 
 ![model](https://github.com/BrandenAdems/Image-Classification-Using-Deep-Learning/assets/88533031/5f174eab-0e16-44d8-9ba5-ab3fa99d3cab)
 
+
+## Appreciation
+I would like to say thank you to Çağlar Fırat Özgenel for providing this dataset on Mendeley Data.
